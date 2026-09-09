@@ -1,0 +1,8 @@
+.next
+.openai
+.vinext
+.wrangler
+dist
+node_modules
+outputs
+work
